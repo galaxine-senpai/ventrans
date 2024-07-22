@@ -1,0 +1,29 @@
+/**
+ * @name Acrylic Harmony
+ * @author skyli
+ * @description Fully transparent acrylic Discord theme. Works with colors and highly customizable.
+ * @version 0.9.4
+ * @donate https://www.buymeacoffee.com/skyli
+ * @source https://github.com/s-k-y-l-i/discord-themes
+ */
+
+@import url('.\\Acrylic\\transparency.css');
+
+/* Config */
+:root{
+    --var-opacity-option: 0;    /*   Acrylic opacity from 0 to 1    */
+    --var-color-saturation: 1.3; /* 0 to 999 where 1 is the default  */
+    --var-contrast: 1.6;          /*     Increase for darker blacks   */
+
+    --var-opacity-titlebar: 0.15;
+    --var-opacity-left-sidebar: 0.22;
+    --var-opacity-bottom-input: 0.22; /* Change the transparency of different elements */
+    --var-opacity-right-sidebar: 0.39;
+    --var-opacity-inner-messages: 0.33;
+
+    /* 
+    For example: 
+    0.1 --var-opacity-option with 99 --var-color-saturation
+    0.4 --var-opacity-option with 2.8 --var-color-saturation
+    0.6 --var-opacity-option with 1.8 --var-color-saturation        */
+}
