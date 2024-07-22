@@ -1,13 +1,15 @@
 /**
- * @name Acrylic Harmony
- * @author skyli
- * @description Fully transparent acrylic Discord theme. Works with colors and highly customizable.
- * @version 0.9.4
- * @donate https://www.buymeacoffee.com/skyli
- * @source https://github.com/s-k-y-l-i/discord-themes
+ * @name VenTrans
+ * @author gawaxine.exe
+ * @description Modified Version of "Skyli's" Acrylic Harmony theme! (Requires Mica For Everyone to look good)
+ * @version 1.0.0
+ * @source https://github.com/galaxine-senpai/ventrans/
  */
 
-@import url('.\\Acrylic\\transparency.css');
+@import url('https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/Acrylic/transparency.css'); /* Main Transparency Module */
+@import url('https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/Acrylic/transparent-popups.css'); /* Transparent popups */
+@import url('https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/Acrylic/spotify.css'); /* Spotify Module */
+@import url('https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/Acrylic/responsive.css');
 
 /* Config */
 :root{
