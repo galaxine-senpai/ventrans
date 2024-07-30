@@ -6,11 +6,11 @@
   
   - 2.1) Vencord
    
-    - For vencord just throw the following link into your "online themes" box: `https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/VenTrans.css`
+    - For vencord just throw the following link into your "online themes" box: `https://raw.githubusercontent.com/galaxine-senpai/ventrans/main/VenTrans.css` (ENSURE YOU HAVE TRANSPARENCY ENABLED Settings > Vencord > Enable Window Transparency)
   
   - 2.2) BetterDiscord
     
-    - Download the `VenTrans.css file and put it in your betterdiscord themes folder (Untested so not sure if it'll work)
+    - Download the `VenTrans.css file and put it in your betterdiscord themes folder (MUST ENABLE WINDOW TRANSPARENCY)
 
 - 3.) Tada your finished
 
