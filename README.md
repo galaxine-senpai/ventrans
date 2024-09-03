@@ -19,7 +19,7 @@
 - 1.) Get [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) (Required for the glass effect) and your client mod of choice
 - 2.) Once installed set to run on startup (this is to ensure discord always looks crisp and pretty)
 - 3.) In the bottom left, press the plus icon and type "discord" into the box (this is how it knows to apply the effect to discord)
-- 4.) Set the backdrop type to either acrylic or mica (Mica looks best in my opinion)
+- 4.) Set the backdrop type to either acrylic or mica (Acrylic looks best if you want a clear and semi glassy background and Mica does a great privacy glass feel)
 - 5.) Although optional you can change window rounding (the little bits on the corner)
 
 NOTE: Do not touch "Blur behind" or "Extend into client area", those are not needed for this
