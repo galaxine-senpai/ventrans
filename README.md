@@ -1,3 +1,6 @@
+> [!WARNING]
+> Discord has begun rolling out a new style for their desktop which in turn breaks VenTrans, I will work on fixing this ASAP.
+
 # How to install
 
 - 1.) (Optional) Get [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) (Required for the glass effect) and your client mod of choice
