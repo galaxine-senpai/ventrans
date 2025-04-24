@@ -1,5 +1,5 @@
-> [!WARNING]
-> Discord has begun rolling out a new style for their desktop which in turn breaks VenTrans, I will work on fixing this ASAP.
+> [!IMPORTANT]
+> Discord has updated the UI which has in turn broken this theme, I suggest using [this one](https://github.com/PL7963/Discord-Mica) by [PL7963](https://github.com/PL7963) which does the same thing.
 
 # How to install
 
